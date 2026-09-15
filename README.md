@@ -87,18 +87,6 @@ The raw dataset contained **9,994 rows**.
 
 Data quality checks included duplicate detection, null-value checks, schema validation, safe data-type conversion and rejected-record handling.
 
-## Project Structure
-
-```text
-databricks-superstore-retail-sales/
-│
-├── README.md
-├── notebooks/
-├── data/
-├── sql/
-├── screenshots/
-└── docs/
-
 ## Project Evidence
 ### Another dashboard
 ![Superstore Retail Sales Dashboard](screenshots/Dashboard2.png)
@@ -114,3 +102,17 @@ databricks-superstore-retail-sales/
 
 ### Data Quality and Rejected Records
 ![Rejected Records](screenshots/rejected record.png)
+
+
+## Project Structure
+
+```text
+databricks-superstore-retail-sales/
+│
+├── README.md
+├── notebooks/
+├── data/
+├── sql/
+├── screenshots/
+└── docs/
+
