@@ -58,6 +58,10 @@ The analysis provides:
 
 ## Dashboard
 
+### Final Databricks Dashboard
+
+![Superstore Retail Sales Dashboard](screenshots/Dashboard1.png)
+
 An interactive Databricks Dashboard was created to present the final business insights.
 
 The dashboard includes:
@@ -94,3 +98,19 @@ databricks-superstore-retail-sales/
 ├── sql/
 ├── screenshots/
 └── docs/
+
+## Project Evidence
+### Another dashboard
+![Superstore Retail Sales Dashboard](screenshots/Dashboard2.png)
+
+### Raw Data
+![Raw Superstore Data](screenshots/Raw Data.png)
+
+### Silver Layer
+![Silver Delta Table](screenshots/silver_table.png)
+
+### Gold Layer
+![Gold Delta Tables](screenshots/gold_tables.png)
+
+### Data Quality and Rejected Records
+![Rejected Records](screenshots/rejected record.png)
